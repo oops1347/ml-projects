@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local quantization experiments and cached calibration activations
+/outputs/
+/artifacts/
+/hf-cache/
