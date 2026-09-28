@@ -1,0 +1,6 @@
+# Install a CUDA-compatible torch build separately on your GPU host if needed.
+torch>=2.5
+transformers>=4.57.6,<5
+accelerate>=1.0
+datasets>=3,<6
+pytest>=8
