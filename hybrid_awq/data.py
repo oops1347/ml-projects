@@ -1,4 +1,4 @@
-"""Reproducible, document-disjoint calibration/evaluation token blocks."""
+#Reproducible, document-disjoint calibration/evaluation token blocks.
 import hashlib
 import json
 from pathlib import Path
